@@ -16,5 +16,8 @@
     "url": "https://github.com/caipora00/testegit2/issues"
   },
   "homepage": "https://github.com/caipora00/testegit2#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
